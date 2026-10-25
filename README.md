@@ -1,6 +1,6 @@
-# Production Setup: PostgreSQL 17 Synchronous Replication with PgBouncer Pooling, Prometheus, and Grafana Monitoring
+# Production Setup: PostgreSQL Synchronous Replication with PgBouncer Pooling, Prometheus, and Grafana Monitoring
 
-This document details the configuration for setting up a high-availability PostgreSQL 17 cluster utilizing synchronous replication, connection pooling via PgBouncer, and a monitoring stack consisting of Prometheus, Grafana, and dedicated metrics exporters.
+This document details the configuration for setting up a high-availability PostgreSQL cluster utilizing synchronous replication, connection pooling via PgBouncer, and a monitoring stack consisting of Prometheus, Grafana, and dedicated metrics exporters.
 
 ---
 
